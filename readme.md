@@ -1,3 +1,3 @@
-# New Machine choclatey install
+# New Machine Chocolatey install
 
-Use [Choclatey](https://chocolatey.org/) to set up a brand new computer. 
+Use [Chocolatey](https://chocolatey.org/) to set up a brand new computer. 
