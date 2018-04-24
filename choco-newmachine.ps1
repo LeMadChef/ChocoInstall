@@ -8,8 +8,6 @@
 choco feature enable -n allowGlobalConfirmation
 
 #install some common things
-choco install launchy
-choco install 7zip
 choco install googlechrome
 choco install 1password
 choco install notepadplusplus
@@ -21,24 +19,15 @@ choco install f.lux
 choco install windirstat
 
 #install dev tools
-choco install powershell
-choco install conemu
 choco install git.install
 choco install poshgit
-choco install git-credential-manager-for-windows
 choco install visualstudiocode
 choco install linqpad
-choco install sourcetree
 
 #languages
-choco install dotnet4.6
 choco install nodejs
 choco install python
 choco install ruby
-
-#toys
-choco install steam
-choco install vlc
 
 #turn on confirmation
 choco feature disable -n allowGlobalConfirmation
